@@ -68,6 +68,7 @@ const CONFIG = {
   },
   skills: [
     'Python',
+    'jupyter notebooks',
     'C++',
     'Bash',
     'Excel',
@@ -75,6 +76,7 @@ const CONFIG = {
     'Git',
     'Github Actions',
     'Docker',
+    'Docker Compose,
     'Linux System Administration'
     'ArcGIS',
     'QGIS',

@@ -76,8 +76,8 @@ const CONFIG = {
     'Git',
     'Github Actions',
     'Docker',
-    'Docker Compose,
-    'Linux System Administration'
+    'Docker Compose',
+    'Linux System Administration',
     'ArcGIS',
     'QGIS',
     'Spanish Second Language',

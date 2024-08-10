@@ -78,6 +78,7 @@ const CONFIG = {
     'Linux System Administration'
     'ArcGIS',
     'QGIS',
+    'Spanish Second Language',
   ],
   experiences: [
     {

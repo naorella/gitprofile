@@ -25,12 +25,12 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['gis_dev_container',
-                   'GIS_showcase',
-                   'bike_data_base',
-                   'demographic-data-analyzer', 
-                   'sea-level-predictor',
-                    'Mean-Variance-Standard-Deviation-Calculator'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['naorella/gis_dev_container',
+                   'naorella/GIS_showcase',
+                   'naorella/bike_data_base',
+                   'naorella/demographic-data-analyzer', 
+                   'naorella/sea-level-predictor',
+                   'naorella/Mean-Variance-Standard-Deviation-Calculator'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {

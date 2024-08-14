@@ -67,7 +67,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      '', // Empty fileUrl will hide the `Download Resume` button.
+      'https://github.com/naorella/naorella.github.io/blob/main/Nelson_Orellana_Resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Python',
@@ -138,13 +138,13 @@ const CONFIG = {
   educations: [
     {
       institution: 'University of Waterloo',
-      degree: 'Candidate for Bachelor of Environmental Studies, Geomatics',
+      degree: 'Bachelor of Environmental Studies, Geomatics',
       from: '2017',
       to: '2022',
     },
     {
       institution: 'University of Waterloo',
-      degree: 'Candidate for Computing Minor',
+      degree: 'Computing Minor',
       from: '2017',
       to: '2022',
     },

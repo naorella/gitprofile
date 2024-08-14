@@ -67,7 +67,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://downgit.github.io/#/home?url=https://github.com/naorella/naorella.github.io/blob/main/Nelson_Orellana_Resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://github.com/naorella/naorella.github.io/blob/main/Nelson_Orellana_Resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Python',
